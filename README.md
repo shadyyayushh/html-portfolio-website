@@ -26,6 +26,38 @@ The project demonstrates my understanding of basic web development concepts, inc
 
 ---
 
+## 📸 Project Preview
+
+### 🏠 Homepage
+
+![Homepage](Screenshot/Homepage.png)
+
+---
+
+### 🎓 Educational Qualifications
+
+![Educational Qualifications](Screenshot/Educationa.png)
+
+---
+
+### 💼 Experiences
+
+![Experiences](Screenshot/Experience.png)
+
+---
+
+### 🚀 Projects
+
+![Projects](Screenshot/Projects.png)
+
+---
+
+### 📬 Contact Me
+
+![Contact Me](Screenshot/contact.png)
+
+---
+
 ## 📂 Project Structure
 
 ```text
