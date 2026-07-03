@@ -2,9 +2,9 @@
 
 ## 📖 Project Overview
 
-This repository contains my personal portfolio website developed using **HTML**. The website is designed to present my educational background, experience, projects, and professional profiles in a simple and organized manner.
+This repository contains my personal portfolio website developed using **HTML**. The website is designed to present my educational background, experience, projects, and professional profiles in a clean and organized manner.
 
-The project was created to strengthen my front-end web development skills while providing a platform to showcase my work and achievements.
+The project demonstrates my understanding of basic web development concepts, including multi-page website design, navigation, external links, and Google Forms integration.
 
 ---
 
@@ -16,14 +16,13 @@ The project was created to strengthen my front-end web development skills while 
 - 📂 Projects Section
 - 📞 Contact Me Page
 - 🔗 Direct links to GitHub, LinkedIn, and LeetCode profiles
-- 📝 Google Form integration
+- 📝 Google Form Integration for collecting user responses
 
 ---
 
 ## 🛠️ Technologies Used
 
 - HTML5
-- PHP (Google Form Integration)
 
 ---
 
@@ -38,7 +37,7 @@ html-portfolio-website/
 ├── Education.html
 ├── Experience.html
 ├── Projects.html
-├── Google_Form.php
+├── Google_Form.html
 ├── Github.jpeg
 ├── Linkedin.jpeg
 └── Leetcode.jpeg
@@ -49,26 +48,22 @@ html-portfolio-website/
 ## 🚀 How to Run
 
 1. Clone this repository.
-
 2. Open the project folder.
-
-3. Open `index.html` in any modern web browser.
-
-> **Note:** The Google Form integration through `Google_Form.php` requires a local server environment such as **XAMPP**, **WAMP**, or **Laragon** to function properly.
+3. Open `index.html` using any modern web browser.
+4. Navigate through the website using the available menu options.
 
 ---
 
-## 📸 Website Pages
+## 📄 Website Sections
 
-The portfolio consists of the following pages:
+- **Home**
+- **Education**
+- **Experience**
+- **Projects**
+- **Contact Me**
+- **Google Form Integration**
 
-- **Home** (`index.html`)
-- **Education** (`Education.html`)
-- **Experience** (`Experience.html`)
-- **Projects** (`Projects.html`)
-- **Contact Me** (`Contact_me.html`)
-
-It also includes quick access to my professional profiles through:
+The portfolio also provides quick access to my professional profiles:
 
 - GitHub
 - LinkedIn
@@ -78,12 +73,12 @@ It also includes quick access to my professional profiles through:
 
 ## 📌 Future Improvements
 
-- Add CSS styling for a modern user interface.
-- Improve responsiveness for mobile devices.
-- Add JavaScript for interactive components.
+- Add CSS for a modern and responsive interface.
+- Enhance the UI with animations and icons.
+- Add JavaScript for improved interactivity.
 - Include a downloadable resume.
 - Deploy the website using GitHub Pages.
-- Enhance UI/UX with animations and icons.
+- Improve accessibility and mobile responsiveness.
 
 ---
 
@@ -93,14 +88,10 @@ It also includes quick access to my professional profiles through:
 
 Bachelor of Technology (Computer Science & Engineering)
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://www.linkedin.com/in/ayush-kushwaha-748a02349
-
 ---
 
 ## ⭐ Thank You
 
 Thank you for visiting this repository.
 
-If you found this project useful or interesting, consider giving it a ⭐ on GitHub.
+If you found this project interesting, consider giving it a ⭐ on GitHub.
