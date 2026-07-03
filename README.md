@@ -36,25 +36,25 @@ The project demonstrates my understanding of basic web development concepts, inc
 
 ### 🎓 Educational Qualifications
 
-![Educational Qualifications](Screenshot/Educationa.png)
+![Education] (Screenshot/Educationa.png)
 
 ---
 
 ### 💼 Experiences
 
-![Experiences](Screenshot/Experience.png)
+![Experience] (Screenshot/Experience.png)
 
 ---
 
 ### 🚀 Projects
 
-![Projects](Screenshot/Projects.png)
+![Projects] (Screenshot/Projects.png)
 
 ---
 
 ### 📬 Contact Me
 
-![Contact Me](Screenshot/contact.png)
+![Contact] (Screenshot/contact.png)
 
 ---
 
