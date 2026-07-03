@@ -95,7 +95,7 @@ Bachelor of Technology (Computer Science & Engineering)
 
 GitHub: https://github.com/YOUR_USERNAME
 
-LinkedIn: Add your LinkedIn profile here.
+LinkedIn: https://www.linkedin.com/in/ayush-kushwaha-748a02349
 
 ---
 
