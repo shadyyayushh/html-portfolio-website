@@ -38,9 +38,17 @@ html-portfolio-website/
 ├── Experience.html
 ├── Projects.html
 ├── Google_Form.html
+│
 ├── Github.jpeg
 ├── Linkedin.jpeg
-└── Leetcode.jpeg
+├── Leetcode.jpeg
+│
+└── Screenshot/
+    ├── Homepage.png
+    ├── Education.png
+    ├── Experience.png
+    ├── Projects.png
+    └── Contact.png
 ```
 
 ---
@@ -61,7 +69,6 @@ html-portfolio-website/
 - **Experience**
 - **Projects**
 - **Contact Me**
-- **Google Form Integration**
 
 The portfolio also provides quick access to my professional profiles:
 
